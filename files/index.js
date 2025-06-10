@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const { exec, execSync } = require('child_process');
-const PORT = process.env.SERVER_PORT || process.env.PORT || 3000;        
+const PORT = process.env.SERVER_PORT || process.env.PORT || 8080;        
 const UUID = process.env.UUID || 'a0066281-5b04-4e4a-aa1d-010c3925d1fc';
 const NEZHA_SERVER = process.env.NEZHA_SERVER || 'nzag.faiz.us.kg:8008';
 const NEZHA_PORT = process.env.NEZHA_PORT || '';
