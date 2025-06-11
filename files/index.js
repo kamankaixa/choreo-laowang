@@ -8,7 +8,7 @@ const NEZHA_PORT = process.env.NEZHA_PORT || '';
 const NEZHA_KEY = process.env.NEZHA_KEY || 'JgARl5rWKs4k8TTuG1OgFcaxrxsjmpHl';
 const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'choreo.faiz.us.kg';
 const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiNmI3MzZhMDhiMzlmNDVlMzE2ZTdlMGNkODE2Yjc2ZDIiLCJ0IjoiMGU5Yjk2MjUtZDMxMS00MDM4LWEyMjYtOTgwNjNmYzQ5M2E5IiwicyI6Ik9XTXhZak5tTnpndE5HVTJNaTAwWldObExUZzROVGN0TlRSbVpHVm1NbUU0TnpFdyJ9';
-const CFIP = process.env.CFIP || 'time.is'; 
+const CFIP = process.env.CFIP || 'rpip.fraiz555.dpdns.org'; 
 const NAME = process.env.NAME || 'Choreo';
 
 // root route
